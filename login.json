@@ -1,0 +1,12 @@
+{
+	"request": {
+		"status": "ok",
+		"time": 612,
+		"date": "2021-11-19T18:20:50.0843095Z",
+		"server": "prd-vm-login-02"
+	},
+	"response": {
+		"token": "681d9eb7-3da8-4c78-a051-d60c859bb142",
+		"userID": 1
+	}
+}
